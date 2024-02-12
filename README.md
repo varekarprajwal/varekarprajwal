@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/github-header-image.png)
+![logo](https://github.com/varekarprajwal/varekarprajwal/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm PRAJWAL PURUSHOTHAM VAREKAR</h1>
 <h3 align="center">A Software developer from India</h3>
 
