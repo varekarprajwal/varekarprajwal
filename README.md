@@ -7,10 +7,15 @@
 
 I'm a Master's graduate specializing in Parallel Computing and AI/ML, with a passion for developing high-performance, scalable solutions. My work has a proven track record of engineering systems that deliver significant performance gains, such as achieving a **100x speedup** in image retrieval and a **40% workflow improvement** in healthcare diagnostics.
 
-- 🔭 I’m currently working as an **Intern (Pre-Dev Researcher) at Siemens Healthineers**, where I'm developing deep learning and image processing solutions that have achieved over 90% organ segmentation accuracy.
+- 🔭 I’m currently worked as an **Intern (Pre-Dev Researcher) at Siemens Healthineers**,
+  -	Accomplished a **40% improvement in workflow efficiency** by developing a unified application for quantitative organ assessment. This system automated liver & kidney functional analysis, eliminating time-consuming manual work & inter-observer variability.
+  -	Improved diagnostic precision by engineering a deep learning solution that **achieved over 90% organ segmentation accuracy, use pre-trained models** to automatically segment the organ from CT scans , providing a reliable foundation for functional analysis.
+  -	Achieved precise volumetric analysis by implementing a robust image registration for **multi-modal image fusion**. It uses both rigid and non-rigid transformations to accurately align functional SPECT and anatomical CT data, a critical step for valid results
+  -	**Ensured robust GFR accuracy** across, an adaptive module with manufacturer-specific formulas. The system reads the scanner type from DICOM tags & applies the correct regression formula, guaranteeing consistent **results across different PET– CT scanner**.
+
 - 🌱 I’m currently focused on high-performance computing, applying advanced techniques in **CUDA, MPI, and Intel oneAPI (DPC++)** to accelerate complex algorithms.
 - 💬 Ask me about: **High-Performance Computing, Parallel Programming (CUDA, MPI), Computer Vision, and AI/ML**.
-- 📫 How to reach me: **varekarprajwal@gmail.com**
+- 📫 How to reach me: **rumor.vocal-0a@icloud.com**
 
 ---
 
